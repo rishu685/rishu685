@@ -7,6 +7,14 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F79A36&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I'm+Rishu685+%F0%9F%98%83;Developer+%7C+Open+Source+Enthusiast" alt="Animated header" />
 </p>
 
+
+![Typing GIF](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Building+cool+projects...;Learning+Next.js,+Express.js,+TypeScript...;Exploring+Generative+AI...)
+   
+--     
+<img    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder at Work" width="650"/>
+
+<img  src="https://raw.githubusercontent.com/singhshashi18/singhshashi18/output/snake.svg" alt="Snake animation" />
+
 ## 🚀 About Me
 - 🧑‍💻 Developer | Open Source Enthusiast
 - 🌱 Currently learning: Cloud Computing, DevOps, and new frameworks
