@@ -103,8 +103,8 @@ technologies-skills/
 ## 📫 How to reach me
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/a758a0214/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/a758a0214/)
   </a>
   <a href="https://discord.com/channels/rishabh0784" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
