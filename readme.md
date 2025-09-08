@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 🚀 About Me
 - 🧑‍💻 Developer | Open Source Enthusiast
-- 🌱 Currently learning: Cloud Computing, DevOps, and new frameworks
+- 🌱 Currently learning: DevOps, and new frameworks
 - 💡 I love solving problems and automating workflows
 
 ## 🗂️ Technologies & Skills
@@ -41,17 +41,18 @@ technologies-skills/
 │  ├─ Express
 │  ├─ Next.js
 │  ├─ Flask
-│  ├─ Spring Boot
+│  
 ├─ DevOps/
 │  ├─ Docker
 │  ├─ GitHub Actions
-│  ├─ Terraform
 │  ├─ Kubernetes
+
 ├─ Cloud/
 │  ├─ AWS
 │  ├─ Azure
 │  ├─ Google Cloud
 ├─ Tools/
+
 │  ├─ Git
 │  ├─ VS Code
 │  ├─ Postman
