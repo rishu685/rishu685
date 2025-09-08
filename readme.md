@@ -106,13 +106,8 @@ technologies-skills/
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/a758a0214/)
   </a>
-  <a href="https://discord.com/channels/rishabh0784" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:rishabh45628@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
----
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/rishabh0784)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rishabh45628@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=internet-explorer&logoColor=white)](https://ris1685.dev)
 
 Thank you for visiting my profile! Feel free to check out my repositories and connect with me.
