@@ -102,10 +102,17 @@ technologies-skills/
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/a758a0214/)
-- [Portfolio](https://ris1685.dev/)
-- Email: rishabh45628@gmail.com
-
+<p align="center">
+  <a href="(https://www.linkedin.com/in/a758a0214/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/channels/rishabh0784" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:rishabh45628@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 ---
 
 Thank you for visiting my profile! Feel free to check out my repositories and connect with me.
