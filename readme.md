@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=rishu68518&color=FF7A8A&style=for-the-badge&label=🔥+Profile+Views)
+
 # Hi there 👋, I'm Rishu!
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find my projects, contributions, and experiments.
