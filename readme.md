@@ -108,6 +108,6 @@ technologies-skills/
   </a>
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/rishabh0784)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rishabh45628@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=internet-explorer&logoColor=white)](https://ris1685.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=internet-explorer&logoColor=white)]((https://ris1685-dev.netlify.app/))
 
 Thank you for visiting my profile! Feel free to check out my repositories and connect with me.
