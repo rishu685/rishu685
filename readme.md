@@ -110,4 +110,4 @@ technologies-skills/
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rishabh45628@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=internet-explorer&logoColor=white)](https://ris1685-dev.netlify.app/)
 
-Thank you for visiting my profile! Feel free to check out my repositories and connect with me.
+Thank you for visiting my profile! Feel free to check out my repositories and connect with me..
