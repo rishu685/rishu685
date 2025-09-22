@@ -98,7 +98,7 @@ technologies-skills/
 
 ## 📈 GitHub Stats
 
-![Rishu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishu685&show_icons=true&hide=prs,issues&count_private=true&theme=radical&cache_seconds=60)     
+![Rishu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishu685&show_icons=true&hide=prs,issues&count_private=true&theme=radical&cache_seconds=15)     
 
 ## 📫 How to reach me
 
