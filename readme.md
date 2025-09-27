@@ -97,10 +97,11 @@ technologies-skills/
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📈 GitHub Stats
+![Rishu685's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishu685&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues)
 
-![Rishu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishu685&show_icons=true&hide=prs,issues&count_private=true&theme=radical&cache_seconds=10)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishu685)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishu685&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishu685&layout=compact&hide=jupyter%20notebook)
 
 ## 📫 How to reach me
 
