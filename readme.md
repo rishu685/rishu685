@@ -97,13 +97,13 @@ technologies-skills/
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📈 GitHub Stats
-GitHub Stats:
+
 ![Rishu685's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishu685&show_icons=true&theme=tokyonight&count_private=true)
 
-GitHub Streak:
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishu685&theme=tokyonight)
 
-Top Languages:
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishu685&layout=compact&hide=jupyter%20notebook&theme=tokyonight)
 
 ## 📫 How to reach me
