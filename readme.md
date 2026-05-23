@@ -42,23 +42,21 @@ technologies-skills/
 │  ├─ Node.js
 │  ├─ Express
 │  ├─ Next.js
-│  ├─ Flask
+
 │  
 ├─ DevOps/
 │  ├─ Docker
 │  ├─ GitHub Actions
-│  ├─ Kubernetes
+
 
 ├─ Cloud/
-│  ├─ AWS
-│  ├─ Azure
 │  ├─ Google Cloud
 ├─ Tools/
 
 │  ├─ Git
 │  ├─ VS Code
 │  ├─ Postman
-│  ├─ Figma
+
 ```
 
 ### Badges
