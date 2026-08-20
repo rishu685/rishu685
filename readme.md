@@ -3,8 +3,6 @@
 # Rishabh Mishra
 **Full Stack AI Developer**
 
-[🌐 Portfolio](https://portfolio-v1-0-pi.vercel.app/) &nbsp;•&nbsp; [💻 GitHub](https://github.com/rishu685) &nbsp;•&nbsp; 📍 India
-
 <br/>
 
 <a href="https://skillicons.dev">
@@ -15,15 +13,16 @@
 
 <br/>
 
-### ⚡ Overview
+### ⚡ Profile
 
-Full Stack Developer engineering web platforms, AI agent workflows, and open-source developer tooling.
+I am a Full Stack AI Developer focused on building clean, scalable, and production-ready applications across web platforms, AI agent workflows, and developer tooling.
 
-### 📌 Featured Projects
+---
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🧠 **[Repowise](https://github.com/rishu685/repowise)** | Codebase intelligence & health analytics engine for AI & humans | `TypeScript` `Python` `MCP` |
-| 🎯 **[Focus Mentor](https://github.com/rishu685/focus-mentor)** | Adaptive productivity & learning guidance platform | `TypeScript` `React` `Node.js` |
-| 🌙 **[Luna AI](https://github.com/rishu685/Luna-ai)** | AI-driven workflow automation assistant | `JavaScript` `Node.js` `LLMs` |
+### 🌐 Connect With Me
 
+<div align="center">
+
+[🌐 Portfolio](https://portfolio-v1-0-pi.vercel.app/) &nbsp;•&nbsp; [💻 GitHub](https://github.com/rishu685)
+
+</div>
